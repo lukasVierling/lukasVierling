@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">German student, eager to learn about Deep Learning</h3>
+<h3 align="center">German student, eager to learn more about Deep Learning</h3>
 
 - 🔭 I’m currently working on **3D scene generation**
 
