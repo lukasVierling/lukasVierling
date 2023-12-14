@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">German student, eager to learn more about deep learning 💡</h3>
 
-- 🔭 I’m currently working on **Facial Expression Recognition**
+- 🔭 I’m currently working on **Continual Learning**
 
 - 🤝 I’m looking for **novel ideas!**
 
