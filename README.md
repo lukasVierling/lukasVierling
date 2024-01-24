@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Robotics**
 
-- 📫 How to reach me **lukas.vierling@gmx.de**
+- 📫 How to reach me **vierling.lukas@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lukas-vierling/](https://www.linkedin.com/in/lukas-vierling/)
 
