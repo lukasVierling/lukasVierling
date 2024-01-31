@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">German student, eager to learn more about deep learning 💡</h3>
 
-- 🔭 I’m currently working on **Continual Learning**
+- 🔭 I’m currently working on **Superalignment**
 
 - 🤝 I’m looking for **novel ideas!**
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **new deep learning projects**
 
-- 🌱 I’m currently learning **Robotics**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 📫 How to reach me **vierling.lukas@gmail.com**
 
