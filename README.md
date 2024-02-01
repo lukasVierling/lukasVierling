@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **new deep learning projects**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **reinforcement learning**
 
 - 📫 How to reach me **vierling.lukas@gmail.com**
 
