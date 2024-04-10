@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">German student, eager to learn more about deep learning 💡</h3>
 
-- 🔭 I’m currently working on **Superalignment**
+- 🔭 I’m currently working on **language agents**
 
 - 👨‍💻 I'm a student at **RWTH Aachen 🇩🇪 and HKUST 🇭🇰**
 
