@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Alignment**
 
-- 👨‍💻 I'm a student at **RWTH Aachen 🇩🇪 and HKUST 🇭🇰**
+- 👨‍💻 I'm a student at **Oxford 🇬🇧, RWTH Aachen 🇩🇪, and HKUST 🇭🇰**
 
 - 🤝 I’m looking to collaborate on **new deep learning projects**
 
