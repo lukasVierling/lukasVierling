@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **reinforcement learning**
 
-- 📫 How to reach me **vierling.lukas@gmail.com**
+- 📫 How to reach me **lukas.vierling@stcatz.ox.ac.uk**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lukas-vierling/](https://www.linkedin.com/in/lukas-vierling/)
 
