@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">German student, eager to learn more about deep learning 💡</h3>
+<h3 align="center">INSUFFICIENT DATA FOR MEANINGFUL ANSWER.</h3>
 
 - 🔭 I’m currently working on **AI Safety**
 
