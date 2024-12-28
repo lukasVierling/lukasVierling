@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">Five words were printed: INSUFFICIENT DATA FOR MEANINGFUL ANSWER.</h3>
+<h3 align="center"> But there was now no man to whom AC might give the answer of the last question.</h3>
 
 - 🔭 I’m currently working on **AI Safety**
 
