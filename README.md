@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **Mech Interpret / AIxBio Safety**
 
-- 🌱 I’m currently learning **reinforcement learning**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 📫 How to reach me **lukas.vierling [at] stcatz.ox.ac.uk**
 
