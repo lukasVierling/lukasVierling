@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">German student, eager to learn more about deep learning 💡</h3>
 
-- 🔭 I’m currently working on **Alignment**
+- 🔭 I’m currently working on **AI Safety**
 
 - 👨‍💻 I'm a student at **Oxford 🇬🇧, RWTH Aachen 🇩🇪, and HKUST 🇭🇰**
 
-- 🤝 I’m looking to collaborate on **new deep learning projects**
+- 🤝 I’m looking to collaborate on **Mech Interpret / AIxBio Safety**
 
 - 🌱 I’m currently learning **reinforcement learning**
 
